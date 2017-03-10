@@ -1,0 +1,22 @@
+{
+  "name": "lesson1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "ANAKUC"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "magnific-popup": "^1.1.0"
+  }
+}
